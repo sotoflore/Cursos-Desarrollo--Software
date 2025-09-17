@@ -22,11 +22,7 @@ Cada curso tiene su propio directorio, que contiene todo el material relevante, 
 
 A continuación se muestra una lista de los cursos incluidos en este repositorio.
 
-### En Progreso
-
 *   **[Angular](angular):** Curso enfocado en el desarrollo de aplicaciones web con el framework Angular.
-
-### Completados
 
 *   **React:** Curso sobre la creación de interfaces de usuario con la librería React.
 
