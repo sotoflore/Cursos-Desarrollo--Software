@@ -35,7 +35,7 @@ A continuación se muestra una lista de los cursos incluidos en este repositorio
 Puedes clonar este repositorio para explorar los proyectos y el código. Siéntete libre de usar cualquier parte del código como referencia para tus propios proyectos.
 
 ```bash
-git clone https://github.com/tu-usuario/Cursos-Desarrollo-Software.git
+https://github.com/sotoflore/Cursos-Desarrollo--Software.git
 ```
 
 ## Contribuciones
