@@ -1,0 +1,3 @@
+# Acronimo STUPID
+
+## CodeSmells
